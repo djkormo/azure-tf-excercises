@@ -39,3 +39,5 @@ terraform.rc
 id_rsa
 *.json
 *.tfplan
+destroy.json
+plan.json
